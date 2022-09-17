@@ -82,7 +82,6 @@
                 android:layout_height="wrap_content"
                 android:textColorHint="#FFFFFF"
                 app:boxBackgroundColor="#377570"
-                app:counterTextColor="#FFFFFF"
                 app:errorEnabled="true"
                 app:hintTextColor="#FFFFFF"
                 app:layout_constraintEnd_toEndOf="@+id/Genre"
