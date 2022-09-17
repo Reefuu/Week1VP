@@ -70,7 +70,8 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Nama Hewan" />
+                    android:hint="Nama Hewan"
+                    android:textColor="#FFFFFF" />
 
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -81,6 +82,7 @@
                 android:layout_height="wrap_content"
                 android:textColorHint="#FFFFFF"
                 app:boxBackgroundColor="#377570"
+                app:counterTextColor="#FFFFFF"
                 app:errorEnabled="true"
                 app:hintTextColor="#FFFFFF"
                 app:layout_constraintEnd_toEndOf="@+id/Genre"
@@ -94,7 +96,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Usia Hewan"
-                    android:inputType="phone" />
+                    android:inputType="phone"
+                    android:textColor="#FFFFFF" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
@@ -116,7 +119,8 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Jenis Hewan" />
+                    android:hint="Jenis Hewan"
+                    android:textColor="#FFFFFF" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
